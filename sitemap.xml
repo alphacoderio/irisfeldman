@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0">
+<url>
+  <loc>https://www.iris-feldman.co.il/</loc>
+  <changefreq>yearly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.iris-feldman.co.il/IrisFeldman.html</loc>
+  <changefreq>yearly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.iris-feldman.co.il/Services.html</loc>
+  <changefreq>yearly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.iris-feldman.co.il/Rates.html</loc>
+  <changefreq>yearly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.iris-feldman.co.il/ContactUs.html</loc>
+  <changefreq>yearly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.iris-feldman.co.il/mobile/index.html</loc>
+  <changefreq>yearly</changefreq>
+  <priority>1.00</priority>
+  <mobile:mobile/>
+</url>
+<url>
+  <loc>https://www.iris-feldman.co.il/mobile/irisfeldman.html</loc>
+  <changefreq>yearly</changefreq>
+  <priority>0.80</priority>
+  <mobile:mobile/>
+</url>
+<url>
+  <loc>https://www.iris-feldman.co.il/mobile/services.html</loc>
+  <changefreq>yearly</changefreq>
+  <priority>0.80</priority>
+  <mobile:mobile/>
+</url>
+<url>
+  <loc>https://www.iris-feldman.co.il/mobile/rates.html</loc>
+  <changefreq>yearly</changefreq>
+  <priority>0.80</priority>
+  <mobile:mobile/>
+</url>
+<url>
+  <loc>https://www.iris-feldman.co.il/mobile/contactus.html</loc>
+  <changefreq>yearly</changefreq>
+  <priority>0.80</priority>
+  <mobile:mobile/>
+</url>
+</urlset>

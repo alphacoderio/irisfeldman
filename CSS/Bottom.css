@@ -1,0 +1,19 @@
+﻿.BottonContainer
+{
+	display:block;
+	width:1000px;
+	margin-left:auto;
+	margin-right:auto;	
+	background-color:White;
+}
+.Grey
+{
+	font: normal 12px Arial;
+	color:#808080;	
+}
+.BottomSep
+{
+	font-size:8px;	
+	color:#808080;
+	padding-top:2px;
+}

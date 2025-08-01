@@ -1,0 +1,16 @@
+﻿.Nav
+{
+	font: bold 14px Arial;
+	color:#910100;	
+}
+.NavSelected
+{
+	font: bold 14px Arial;
+	color:Black;	
+}
+.Logo
+{
+	display:block;
+	width:220px;
+	height:60px;	
+}

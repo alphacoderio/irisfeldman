@@ -1,0 +1,9 @@
+﻿.RadMenu_Gray_rtl .rmHorizontal .rmLast .rmLink:hover,  
+.RadMenu_Gray_rtl .rmHorizontal .rmLast .rmExpanded,  
+.RadMenu_Gray_rtl .rmHorizontal .rmLast .rmFocused  
+{  
+    border-right: 1px solid #898989;  
+}  
+  
+* html .RadMenu_Gray_rtl a.rmLink { display: inline-block; }  
+*+html .RadMenu_Gray_rtl a.rmLink { zoom: 1; }  

@@ -1,0 +1,56 @@
+﻿*
+{
+	padding:0px;
+    margin:0px;    
+}
+BODY 
+{
+	background:#ececec;
+	font: normal 12px Arial;
+	color:#910100;
+	direction:rtl;
+}
+DIV
+{
+	background-repeat:no-repeat;	
+	font: normal 12px Arial;
+	color:#910100;
+}
+TR
+{
+	vertical-align:top;	
+}
+IMG
+{
+	border: solid 0px;	
+}
+A
+{
+    text-decoration: none !important;
+}
+.textbox
+{
+    background: white;
+	border: solid 1px #910100;
+	font: normal 12px Arial !important;
+	vertical-align: top;
+	height: 18px;
+	direction:rtl;
+}
+.Container
+{
+	display:block;
+	width:1000px;
+	height:600px;
+	margin-left:auto;
+	margin-right:auto;
+}
+.Red
+{
+	font: normal 12px Arial;
+	color:#910100;
+}
+.Bold
+{
+	font-weight:bold;	
+}
